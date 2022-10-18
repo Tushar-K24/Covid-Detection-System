@@ -1,5 +1,8 @@
 # Covid Detection System
 
+## Dataset
+https://www.kaggle.com/datasets/prashant268/chest-xray-covid19-pneumonia
+
 A Deep Learning based detection system that takes in lungs X-ray images and labels them as:
 
 - COVID
